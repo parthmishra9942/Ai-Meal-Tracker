@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-parthh.runs--on.dev-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parthh.runs-on.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Engine: Claude 3.5](https://img.shields.io/badge/Engine-Claude%203.5%20Sonnet-d97706?style=for-the-badge&logo=anthropic)](https://anthropic.com)
 [![Stack: React + Vite](https://img.shields.io/badge/Stack-React%20%7C%20Vite-61dafb?style=for-the-badge&logo=react)](https://vitejs.dev)
@@ -162,7 +163,7 @@ Visit `http://localhost:5173` in your browser. On initial launch, input your Ant
 
 **Parth Mishra**  
 - GitHub: [@parthmishra9942](https://github.com/parthmishra9942)  
-- Portfolio: [ai-portfolio-beige-xi.vercel.app](https://ai-portfolio-beige-xi.vercel.app/)  
+- Portfolio: [parthh.runs-on.dev](https://parthh.runs-on.dev)  
 - LinkedIn: [linkedin.com/in/parth-mishra-4b7578242](https://linkedin.com/in/parth-mishra-4b7578242)
 
 ---
